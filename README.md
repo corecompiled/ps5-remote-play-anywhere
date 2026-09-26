@@ -1,5 +1,7 @@
 # PS5 Remote Play from Outside Your Home Network
 
+[![tests](https://github.com/corecompiled/ps5-remote-play-anywhere/actions/workflows/tests.yml/badge.svg)](https://github.com/corecompiled/ps5-remote-play-anywhere/actions/workflows/tests.yml)
+
 *`ps5-remote-play-anywhere` - a router-agnostic setup guide plus a dependency-free diagnostic CLI (`ps5rp`).*
 
 A practical, router-agnostic guide to playing your PS5 while away from home on
