@@ -1,0 +1,10 @@
+# Normalize line endings across platforms.
+# Text files are stored with LF in the repository and checked out with the
+# platform convention, except where a specific convention is required.
+* text=auto
+*.sh  text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.json text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf

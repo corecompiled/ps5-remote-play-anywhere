@@ -1,0 +1,13 @@
+{
+  "public_ip": "",
+  "ddns_hostname": "",
+  "main_router_ip": "",
+  "second_router_wan_ip": "",
+  "second_router_lan_ip": "",
+  "ps5_ip": "",
+  "ps5_mac": "",
+  "overlay_host_ip": "",
+  "tailnet_name": "",
+  "control_plane_url": "",
+  "wake_ports": [987, 9302]
+}
